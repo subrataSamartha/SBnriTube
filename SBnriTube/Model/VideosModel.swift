@@ -17,9 +17,4 @@ struct video: Codable {
     var profilePic: String
     var views: String
     var timeStamp: String
-    var liked: Bool
-    var likeCount: Int
-    var disliked: Bool
-    var subscribe: Bool
-    var category: String
 }
